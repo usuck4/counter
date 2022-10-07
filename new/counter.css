@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color: #99ccff;
+   background: url("photo_2022-10-07_14-23-25.jpg") no-repeat center top  #99ccff ;
 }
 h1{
   font-weight: bold;
