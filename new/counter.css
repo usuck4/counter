@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #99ccff;
+}
+h1{
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+}
+div{
+  display: inline-block;
+  height: 150px;
+  position:relative;
+  left:12.5%;
+  top:120px;
+  text-align:center;
+  vertical-align: middle;
+  font-size:25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color:white;
+  border-radius: 20px;
+
+  
+}
+.month{
+  background-color:rgb(255, 225, 0);
+  width:15%;
+  
+  
+}
+.days{
+  background-color:rgb(241, 11, 11);
+  width: 15%;
+}
+.hours{
+  background-color:rgb(32, 6, 227);
+  width: 15%;
+}
+.min{
+  background-color:rgb(8, 243, 55);
+  width: 15%;
+}
+.sec{
+  background-color:rgb(245, 7, 205);
+  width: 15%;
+  
+  
+}
+footer{
+  position: absolute;
+  top: 800px;
+  left:600px;
+}
